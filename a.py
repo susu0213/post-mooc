@@ -18,3 +18,4 @@ class ModifyResponse:
 addons = [
     ModifyResponse()
 ]
+#https://passport2.chaoxing.com/login?loginType=4&fid=62991&newversion=true&refer=http://i.mooc.chaoxing.com
